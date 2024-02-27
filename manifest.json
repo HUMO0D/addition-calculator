@@ -1,0 +1,17 @@
+{
+  "lang": "en-us",
+  "name": "addition calculator app",
+  "short_name": "addition calculator",
+  "description": "A basic addition calculator",
+  "start_url": "/",
+  "background_color": "rgb(41, 41, 41)",
+  "theme_color": "rgb(41, 41, 41)",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "/calculator-icon.png",
+          "sizes": "512x512"
+      }
+  ]
+}
